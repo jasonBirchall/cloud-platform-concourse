@@ -1,5 +1,7 @@
 # cloud-platform-concourse
 
+ARCHIVED: Please see https://github.com/ministryofjustice/cloud-platform-terraform-concourse/
+
 Concourse CI for the Cloud Platform
 
 ## Install / Upgrade
